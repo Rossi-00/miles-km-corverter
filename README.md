@@ -24,7 +24,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 1. **Clone este repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/miles-km-converter.git
+   git clone https://github.com/rossi-00/miles-km-converter.git
    cd miles-km-converter
    ```
 
