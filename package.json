@@ -1,0 +1,15 @@
+{
+  "name": "miles-km-converter",
+  "version": "1.0.0",
+  "description": "Conversor de milhas para quilômetros",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "author": "",
+  "license": "MIT",
+  "type": "module"
+}
