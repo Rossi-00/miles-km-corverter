@@ -1,5 +1,3 @@
-Claro! Aqui está o **README.md** traduzido para o português:
-
 ### **README.md**:
 
 ```markdown
